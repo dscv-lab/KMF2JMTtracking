@@ -43,5 +43,3 @@ _Index Terms_—Visual Tracking, Multi-task Learning, Multiview Learning, Blockw
 | Tiger2   | [Youtube](https://www.youtube.com/embed/hUIAfKHfXRw) | [Download(13M)](https://1drv.ms/v/s!Ar1lIHksKLYAkmxjBlPhJ8Ex_BhA) |
 | Skating1 | [Youtube](https://www.youtube.com/embed/Rv5fofYrrDM) | [Download(19M)](https://1drv.ms/v/s!Ar1lIHksKLYAkm2XL8SMDS40OTFG) |
 | Human5   | [Youtube](https://www.youtube.com/embed/1YLvFNRT_6A) | [Download(23M)](https://1drv.ms/v/s!Ar1lIHksKLYAkm95ZU6lEoOU4rhr) |
-|          |                                                      |                                                              |
-
