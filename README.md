@@ -26,10 +26,11 @@ _Index Terms_—Visual Tracking, Multi-task Learning, Multiview Learning, Blockw
 
 ```
 @article{zhang2018kmf2jmt,
-    title={Robust Visual Tracking using Multi-Frame Multi-Feature Joint Modeling},
-    author={Peng Zhang, Shujian Yu, Jiamiao Xu, Xinge You, Xiubao Jiang, Xiao-Yuan Jing, and Dacheng Tao},
-    journal={IEEE Transactions on Circuits and Systems for Video Technology (accepted)},
-    year={2018}
+    title = {Robust Visual Tracking Using Multi-Frame Multi-Feature Joint Modeling},
+    author = {Zhang, Peng and Yu, Shujian and Xu, Jiamiao and You, Xinge and Jiang, Xiubao and Jing, Xiao-Yuan and Tao, Dacheng},
+    journal = {IEEE Transactions on Circuits and Systems for Video Technology},
+    year = {2018},
+    doi = {10.1109/TCSVT.2018.2882339},
 }
 ```
 
